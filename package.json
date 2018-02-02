@@ -1,0 +1,10 @@
+{
+  "name": "uglify-es-function-inline-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Tim Zook <tim@zookatron.com>",
+  "dependencies": {
+    "uglify-es": "^3.3.9"
+  }
+}
